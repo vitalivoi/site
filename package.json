@@ -1,0 +1,15 @@
+{ "name": "site",
+  "version": "1.0.0",
+  "description": "A personal website",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export -o docs"
+  },
+  "dependencies": {
+    "next": "^9.1.1",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0"
+  }
+}
