@@ -11,7 +11,7 @@ export default () => {
       <section>
         <div>
           <h1>Vitali Voïnski</h1>
-          <h2>Web Developer & Minimalist Designer</h2>
+          <h2>Web Developer & UX Designer</h2>
           <p>
             <a href="https://twitter.com/vitalivoi" target="_blank">@vitalivoi</a>
             <br/>
