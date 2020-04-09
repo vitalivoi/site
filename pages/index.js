@@ -6,12 +6,12 @@ export default () => {
       <Head>
         <title>Vitali Voïnski</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Web Developer & Minimalist Designer" />
+        <meta name="description" content="Software Engineer & UX Designer" />
       </Head>
       <section>
         <div>
           <h1>Vitali Voïnski</h1>
-          <h2>Web Developer & UX Designer</h2>
+          <h2>Software Engineer & UX Designer</h2>
           <p>
             <a href="https://twitter.com/vitalivoi" target="_blank">@vitalivoi</a>
             <br/>
