@@ -4,18 +4,18 @@ export default () => {
   return (
     <div>
       <Head>
-        <title>Vitali Voïnski</title>
+        <title>Vitali Voinski</title>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Software Engineer & UX Designer" />
+        <meta name="description" content="Software Engineer & Founder" />
       </Head>
       <section>
         <div>
-          <h1>Vitali Voïnski</h1>
-          <h2>Software Engineer & UX Designer</h2>
+          <h1>Vitali Voinski</h1>
+          <h2>Software Engineer & Founder</h2>
           <p>
-            <a href="https://twitter.com/vitalivoi" target="_blank">@vitalivoi</a>
+            <a href="https://t.me/vitalivoi" target="_blank">@vitalivoi</a>
             <br/>
-            <a href="mailto:vitalivoi@prostir.co">vitalivoi@<b>prostir.co</b></a>
+            <a href="mailto:vitalivoi@protonmail.com">vitalivoi@protonmail.com</a>
           </p>
           <style jsx global>{`
             * {
